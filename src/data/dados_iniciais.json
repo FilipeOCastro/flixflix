@@ -1,0 +1,95 @@
+{
+  "categorias": [
+    {      
+        "titulo": "LED SANTOS",
+        "link": "https://www.youtube.com/watch?v=dXIj0HPea4o",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Canal Led Santos",
+          "url": "https://www.youtube.com/channel/UCE1kiVJowfbbS322YYUrrFA"
+        },
+        "videos": [
+          {
+            "titulo": "Como traçar uma navegação VFR #LedSantos",
+            "url": "https://www.youtube.com/watch?v=dXIj0HPea4o"
+          },
+          {
+            "titulo": "Aproximação IFR em Congonhas de TBM900 [PP-OKK] #LedSantos",
+            "url": "https://www.youtube.com/watch?v=aJ20jGnJtLE"
+          },
+          {
+            "titulo": "[LIVE] - O que está acontecendo com a AVGAS no Brasil? #LedSantos",
+            "url": "https://www.youtube.com/watch?v=9GikiWKuYaE"
+          },
+          {
+            "titulo": "Nova torre em Sorocaba #LedSantos",
+            "url": "https://www.youtube.com/watch?v=bxVCkJcscLM"
+          },
+          {
+            "titulo": " Nossa volta de Santa Catarina [PT-RRU] #LedSantos",
+            "url": "https://www.youtube.com/watch?v=XP5gvDT3mBY"
+          },
+          {
+            "titulo": "15 Zulu ao vivo - O polêmico RBAC 63 #LedSantos",
+            "url": "https://www.youtube.com/watch?v=FT__j3_NKzY"
+          }       
+        ]
+      },
+      {
+        "titulo": "Aviões e Músicas",
+        "cor": "#00C86F",
+        "link_extra": {
+          "text": "Canal Aviões e Músicas",
+          "url": "https://www.youtube.com/user/avioesemusicas"
+        },
+        "videos": [
+          {
+            "titulo": "FUGIU Com O Avião Mais SECRETO Da União Soviética EP. 663",
+            "url": "https://www.youtube.com/watch?v=2LBSbN9Z5ZA"
+          },
+          {
+            "titulo": "Avião Cai Em Rua de Guabiruba em Santa Catarina EP. 662",
+            "url": "https://www.youtube.com/watch?v=gLXMfB8eTW0"
+          },
+          {
+            "titulo": "O Segundo Bilhete Dourado #Extra",
+            "url": "https://www.youtube.com/watch?v=dANM6yrGRF0"
+          },
+          {
+            "titulo": "Isso Pode Explicar o DESAPARECIMENTO do VARIG 967 EP. 660",
+            "url": "https://www.youtube.com/watch?v=m3OMSnfXt-I"
+          }, 
+          {
+            "titulo": "Mãe e Filha Voando Juntas? Pode isso? EP. 659",
+            "url": "https://www.youtube.com/watch?v=bFEfbNs0PGs"
+          }
+        ]
+      },
+      {
+        "titulo": "Aero Por Trás da Aviação",
+        "cor": "#9cd33b",
+        "link_extra": {
+          "text": "AVIÃO SUPERSÔNICO AMERICANO: o esquecido Boeing 2707",
+          "url": "https://www.youtube.com/channel/UC32z4mtyiq02Ge-XWy78ibw"
+        },
+        "videos": [
+          {
+            "titulo": "Qual é a diferença entre POUSAR NA ÁGUA ou em PISTA DE AEROPORTO?",
+            "url": "https://www.youtube.com/watch?v=ZgRuBIBhnW0"
+          },
+          {
+            "titulo": "Soldado da FAB se EJETOU em um voo de SUPER TUCANO",
+            "url": "https://www.youtube.com/watch?v=YZAEWoxseNY"
+          },
+          {
+            "titulo": "Existe Avião Melhor ou Pior que Outro? A Frota de uma Companhia Aérea",
+            "url": "https://www.youtube.com/watch?v=QisNifuLsGg"
+          },
+          {
+            "titulo": "Será que um Leigo em Aviação Consegue Pousar um Avião? Ft. Max Palaro",
+            "url": "https://www.youtube.com/watch?v=mOkOcTJHePU"
+          }
+        ]
+      }      
+    ]
+  }
